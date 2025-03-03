@@ -1,5 +1,5 @@
 [package]
-name = "hello_rust_2025
+name = "hello_rust_2025"
 version = "0.1.0"
 edition = "2024"
 description = "A sample project with Rust"
