@@ -2,6 +2,8 @@
 name = "hello_rust"
 version = "0.1.0"
 edition = "2024"
+description = "A sample project with Rust"
+licence = "MIT"
 
 [dependencies]
 time = "0.1.12"
