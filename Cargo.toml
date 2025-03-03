@@ -5,4 +5,4 @@ edition = "2024"
 
 [dependencies]
 time = "0.1.12"
-regex = { git = "https://github.com/rust-lang/regex.git" }
+regex = { version = "1.5", git = "https://github.com/rust-lang/regex.git" }
